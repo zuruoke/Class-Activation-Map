@@ -29,6 +29,8 @@ The corresponding weights of the feature vector connected to the logistic regres
 
 - *Plot* both the query image and its overlayed heatmap constituent  
 
+# RESULTS
+
 ![0000002](https://user-images.githubusercontent.com/51057490/82155893-e9d40700-986f-11ea-9b8a-b68e96cc566f.JPG)
 ![0000004](https://user-images.githubusercontent.com/51057490/82155996-8c8c8580-9870-11ea-98e5-cb019af3ed67.JPG)
 ![0000000088](https://user-images.githubusercontent.com/51057490/82156029-c2316e80-9870-11ea-89f6-f88153ac3a12.JPG)
